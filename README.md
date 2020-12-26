@@ -11,6 +11,18 @@
 ### 1. change ip and port in backdoor.py and server.py
 ### 2. Run: python backdoor.py on target system
 ### 3. Run. python server.py in your local machine
+## Features :
+```
+Friends soon i am going to release python reverse shell in my github page...
+Features:
+1.Upload and download file
+2.Screenshot
+3.Keylogger
+4.persistent feature (Create Persistence In Registry)
+5.backdoor tries to connect every 30 seconds 
+6.Check User Privileges
+7.I will provide an exe signer to sign your backdoor 'exe' file 
+```
 ## Compile to exe :
 ```
 pyinstaller --onefile --noconsole backdoor.py
