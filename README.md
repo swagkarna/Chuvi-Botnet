@@ -13,8 +13,7 @@
 ### 3. Run. python server.py in your local machine
 ## Features :
 ```
-Friends soon i am going to release python reverse shell in my github page...
-Features:
+
 1.Upload and download file
 2.Screenshot
 3.Keylogger
