@@ -26,7 +26,8 @@
 ```
 pyinstaller --onefile --noconsole backdoor.py
 ```
-##  Video Tutorial Coming Soon
+##  Video Tutorial 
+### https://youtu.be/WxwSF_BEfdw
 ## Note : Dont upload sample to virustoal or any site to test the detection ratio.....
 # Legal Disclaimer :
 ## Usage of this tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program...
