@@ -1,5 +1,5 @@
 
-# ***Under Construction***..Dont Use Untill it gets completed
+
 ## Installtion for windows
 ## Steps to be followed :
 ### 1. Download <a href="https://www.python.org/downloads/release/python-391/">python</a> from this site.
@@ -26,7 +26,7 @@
 ```
 ## Compile to exe :
 ```
-pyinstaller --onefile --noconsole backdoor.py
+run  compiler.bat
 ```
 ##  Video Tutorial 
 ### https://youtu.be/WxwSF_BEfdw
