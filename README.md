@@ -21,6 +21,7 @@
 3.backdoor tries to connect every 30 seconds 
 4.Check User Privileges
 5.I will provide an exe signer to sign your backdoor 'exe' file 
+6.Add exe file to execlusion in defender settings
 ```
 ## Compile to exe :
 ```
