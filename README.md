@@ -17,12 +17,10 @@
 ```
 
 1.Upload and download file
-2.Screenshot
-3.Keylogger
-4.persistent feature (Create Persistence In Registry)
-5.backdoor tries to connect every 30 seconds 
-6.Check User Privileges
-7.I will provide an exe signer to sign your backdoor 'exe' file 
+2.persistent feature (Create Persistence In Registry)
+3.backdoor tries to connect every 30 seconds 
+4.Check User Privileges
+5.I will provide an exe signer to sign your backdoor 'exe' file 
 ```
 ## Compile to exe :
 ```
