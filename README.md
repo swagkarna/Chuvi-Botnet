@@ -22,6 +22,7 @@
 4.Check User Privileges
 5.I will provide an exe signer to sign your backdoor 'exe' file 
 6.Add exe file to execlusion in defender settings
+7.Ask For Admin Permission.If ignored the script will quit
 ```
 ## Compile to exe :
 ```
